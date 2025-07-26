@@ -59,22 +59,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/arnulljs/arnulljs/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=arnulljs.arnulljs&"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnulljs/arnulljs/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnulljs/arnulljs/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arnulljs/arnulljs/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
