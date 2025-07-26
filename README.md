@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arnold Joseph</h1>
 <h3 align="center">A Computer Engineering student from the Philippines</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnulljs&label=Profile%20views&color=5d6569&style=flat" alt="arnulljs" /> </p>
+
 - 🔭 I’m currently working on [ISMIS-Crawler-GUI](https://github.com/arnulljs/ISMISCrawler-GUI)
 
 - 🌱 I’m currently learning **Python and KivyMD**
