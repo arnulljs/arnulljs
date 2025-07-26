@@ -64,3 +64,12 @@
 </div>
 
 ###
+- 🔭 I’m currently working on: [ISMIS-Crawler-GUI](https://github.com/arnulljs/ISMISCrawler-GUI)
+
+- 🌱 I’m currently learning: **Python and KivyMD**
+
+- 👨‍💻 All of my projects are available at: [https://github.com/arnulljs](https://github.com/arnulljs)
+
+- 📫 How to reach me: **arnoldjosephjr.najera@gmail.com**
+
+- ⚡ Fun fact: **I much prefer working on hardware than software :P**
