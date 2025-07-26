@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">![Codewars](https://github.r2v.ch/codewars?user=arnull&theme=gradient_dark_by_level)</p>
+![Codewars](https://github.r2v.ch/codewars?user=arnull&theme=gradient_dark_by_level)
 
 ###
 
