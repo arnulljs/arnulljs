@@ -70,7 +70,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://github.com/arnulljs](https://github.com/arnulljs)
 
-- ⭐ I aspire to: Work on PCB design and fabrication
+- ⭐ I aspire to: **Work on PCB design and fabrication**
 
 - 📫 How to reach me: **arnoldjosephjr.najera@gmail.com**
 
