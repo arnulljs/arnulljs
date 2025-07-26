@@ -9,7 +9,11 @@
 
 ###
 
-![Codewars](https://github.r2v.ch/codewars?user=arnull&theme=gradient_dark_by_level)
+<p align="center" >
+    <a href="[LINK TO: WHEN CLICKED](https://www.codewars.com/users/arnull)">
+      <img src="https://github.r2v.ch/codewars?user=arnull&theme=gradient_dark_by_level" />
+    </a>
+</p>
 
 ###
 
