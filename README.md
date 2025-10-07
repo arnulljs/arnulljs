@@ -65,7 +65,7 @@
 ###
 - 🔭 I’m currently working on: [ISMIS-Crawler-GUI](https://github.com/arnulljs/ISMISCrawler-GUI)
 
-- 🌱 I’m currently learning: **Python and KivyMD**
+- 🌱 I’m currently learning: **Assembly**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/arnulljs](https://github.com/arnulljs)
 
