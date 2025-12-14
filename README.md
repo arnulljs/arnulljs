@@ -3,10 +3,9 @@
 ###
 
 <p align="center">
-  <a href="https://github.com/arnulljs/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=arnulljs" alt="Arnold's GitHub stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnulljs&layout=compact&theme=radical" alt="Top languages" />
 </p>
+
 
 
 ###
