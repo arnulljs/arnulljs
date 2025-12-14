@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-  [![Arnold's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnulljs)](https://github.com/arnulljs/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnulljs&langs_count=10)](https://github.com/arnulljs/github-readme-stats)
 
 ###
 
