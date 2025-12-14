@@ -2,9 +2,12 @@
 
 ###
 
-<h2 align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnulljs&langs_count=10)](https://github.com/arnulljs/github-readme-stats)
-</h2>
+<p align="center">
+  <a href="https://github.com/arnulljs/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=arnulljs" alt="Arnold's GitHub stats" />
+  </a>
+</p>
+
 
 ###
 
