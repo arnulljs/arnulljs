@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnulljs&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnulljs&layout=compact&theme=github_dark_dimmed" alt="Top languages" />
 </p>
 
 
