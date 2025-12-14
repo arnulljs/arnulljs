@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  [!(https://github-readme-stats.vercel.app/api?username=arnulljs)](https://github.com/arnulljs/github-readme-stats)
+  [![Arnold's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnulljs)](https://github.com/arnulljs/github-readme-stats)
 </div>
 
 ###
