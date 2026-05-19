@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnulljs&layout=compact&theme=github_dark_dimmed" alt="Top languages" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnulljs)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
