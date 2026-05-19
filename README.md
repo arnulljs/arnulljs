@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=arnulljs)]
+  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=arnulljs&theme=shadow_blue)
 </p>
 
 
