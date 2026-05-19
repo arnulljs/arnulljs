@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnulljs"/>
+  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=arnulljs)]
 </p>
 
 
